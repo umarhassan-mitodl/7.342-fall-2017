@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Stem Cells"
+    ]
+  ],
+  "legacy_uid": "b2e70646-06be-6cbd-25c6-489449705f7a",
+  "instructors": {
+    "content": [
+      "0624e3f2-48d7-ce3d-3246-cfaec2c4a5e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "519e1f60-363a-39ed-de3a-ea5130d7cfb4",
+    "website": "7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017"
+  },
+  "course_title": "How To Build An Animal: Cell Fate and Identity in Development and Disease",
+  "hide_download": true,
+  "course_description": "In this course, we will explore how animals determine and maintain cell fate. We will discuss changes to DNA structure and packaging, special proteins (known as \"master regulators\") with the ability to alter cell fate via transcription, cell-cell signaling, and RNA localization.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "course_image_thumbnail": {
+    "content": "661c8099-2f30-a3c0-07e8-e729cc45ba4b",
+    "website": "7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "4035bce2-eb54-4849-8a11-bec2bdd131ec",
+  "site_short_id": "7.342-fall-2017",
+  "site_url_path": "courses/7-342-how-to-build-an-animal-cell-fate-and-identity-in-development-and-disease-fall-2017",
+  "title": "Course Metadata"
+}
